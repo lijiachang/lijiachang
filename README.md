@@ -12,17 +12,23 @@
 <td valign="top" width="50%">
 <img src="metrics.svg" alt="Metric" />
 </td>
-<td valign="top" width="50%">
 
-## Latest blog posts
+[//]: # (<td valign="top" width="50%">)
 
-<!-- blog start -->
+[//]: # ()
+[//]: # (## Latest blog posts)
 
-<!-- blog end -->
+[//]: # ()
+[//]: # (<!-- blog start -->)
 
-Read more
+[//]: # ()
+[//]: # (<!-- blog end -->)
 
-</td>
+[//]: # ()
+[//]: # (Read more)
+
+[//]: # ()
+[//]: # (</td>)
 </tr></table>
 
 
