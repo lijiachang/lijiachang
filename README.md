@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src=".metrics.svg" alt="Metric" />
+<img src="metrics.svg" alt="Metric" />
 </td>
 
 [//]: # (<td valign="top" width="50%">)
