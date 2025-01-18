@@ -3,7 +3,7 @@
  👋
  Python Engineer, using asyncio and Django.   
  Engaged in web3, quantitative trading, and building high-performance applications.   
- now learning Rust🦀
+ now using Rust🦀
 
 ---
 
